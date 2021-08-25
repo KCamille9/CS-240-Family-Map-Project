@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "CS240-FMS-2020"

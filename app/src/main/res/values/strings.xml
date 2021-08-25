@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">CS240-FMS-2020</string>
+
+    <!-- login fragment -->
+    <string name="server_host_title_login">Server Host:</string>
+    <string name="server_port_title_login">Server Port:</string>
+    <string name="username_title_login">Username:</string>
+    <string name="password_title_login">Password:</string>
+    <string name="first_name_title_login">First Name:</string>
+    <string name="last_name_title_login">Last Name:</string>
+    <string name="email_title_login">Email:</string>
+    <string name="male_button">Male</string>
+    <string name="female_button">Female</string>
+    <string name="invalid_parameters">Please enter all information!</string>
+
+    <string name="map_fragment_welcome_default">Welcome to FamilyMap</string>
+    <string name="marker_statement_default">Click on a marker to begin</string>
+
+    <string name="settings_story_lines">Show Life Story</string>
+    <string name="settings_show_story_lines">SHOW LIFE STORY LINES</string>
+    <string name="settings_tree_lines">Family Tree Lines</string>
+    <string name="settings_show_tree_lines">SHOW FAMILY TREE LINES</string>
+    <string name="settings_spouse_lines">Spouse Lines</string>
+    <string name="settings_show_spouse_lines">SHOW SPOUSE LINES</string>
+    <string name="settings_map_type">Map Type</string>
+    <string name="settings_map_type_info">BACKGROUND DISPLAY ON MAP</string>
+    <string name="settings_logout">Logout</string>
+    <string name="settings_logout_info">RETURNS TO LOGIN SCREEN</string>
+    <string-array name="life_story_colors">
+        <item>Blue</item>
+        <item>Cyan</item>
+        <item>Black</item>
+    </string-array>
+    <string-array name="family_tree_colors">
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>White</item>
+    </string-array>
+    <string-array name="spouse_line_color">
+        <item>Magenta</item>
+        <item>Red</item>
+        <item>Grey</item>
+    </string-array>
+    <string-array name="map_types">
+        <item>Normal</item>
+        <item>Hybrid</item>
+        <item>Satellite</item>
+        <item>Terrain</item>
+    </string-array>
+
+    <string name="male_events">Male Events</string>
+    <string name="gender_events_description">FILTER EVENTS BASED ON GENDER</string>
+    <string name="female_events">Female Events</string>
+    <string name="filter_default">Filter Setting</string>
+    <string name="filter_default_des">Filter Description</string>
+    <string name="father_filter">Father\'s Side</string>
+    <string name="father_filter_des">FILTER BY FATHER\'S SIDE OF FAMILY</string>
+    <string name="mother_filter">Mother\'s Side</string>
+    <string name="mother_filter_des">FILTER BY MOTHER\'S SIDE OF FAMILY</string>
+    <string name="search_string">Search</string>
+
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_person">PersonActivity</string>
+
+
+    <!--  Settings  -->
+    <string name="family_settings">Family Map: Settings</string>
+    <string name="family_tree_lines">Family Tree Lines</string>
+    <string name="show_tree_lines">SHOW TREE LINES</string>
+    <string name="show_life_story_lines">SHOW LIFE STORY LINES</string>
+    <string name="life_story_lines">Life Story Lines</string>
+    <string name="spouse_lines_string">Spouse Lines</string>
+    <string name="show_spouse_lines">SHOW SPOUSE LINES</string>
+    <string name="map_type">Map Type</string>
+    <string name="normal">Normal</string>
+    <string name="background_display_on_map">BACKGROUND DISPLAY ON MAP</string>
+    <string name="re_sync_data">Re-sync Data</string>
+    <string name="from_familymap_service">FROM FAMILYMAP SERVICE</string>
+    <string name="logOut">Log Out</string>
+    <string name="returns_to_login_screen">RETURNS TO LOGIN SCREEN</string>
+    <string name="family_filter">Family Map: Filter</string>
+    <string name="family_search">Family Map: Search</string>
+    <string name="nameOfApp">MyApplication</string>
+    <string name="mother_lines_string">Mother\'s Side</string>
+    <string name="father_lines_string">Father\'s Side</string>
+    <string name="male_events_lines_string">Male Events</string>
+    <string name="show_male_events_lines">FILTER EVENTS BASED ON GENDER</string>
+    <string name="show_mother_lines">FILTER BY MOTHER\'S SIDE OF FAMILY</string>
+    <string name="show_father_lines">FILTER BY FATHER\'S SIDE OF FAMILY</string>
+    <string name="show_female_events_lines">Female Events</string>
+    <string name="female_events_lines_string">Female Events</string>
+
+
+</resources>
